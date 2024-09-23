@@ -1,4 +1,4 @@
-# Scoring-task
+# Client-default-prediction
 
 This project aims to analyze client behavior and predict the likelihood of defaulting on loans using machine learning techniques. The analysis leverages various client characteristics and payment history to segment clients and evaluate their risk profiles.
 
